@@ -20,7 +20,7 @@ Dieses Repository enthält [6 Jupyter Notebooks](https://github.com/PBrdng/Eleme
 
 ## Implementierung eines LLMs
 
-Das Highlight in der Liste ist das letzte [Notebook über Large Language Models (LLMs)](https://github.com/PBrdng/Elemente-der-Datenanalyse-und-der-Kuenstlichen-Intelligenz/blob/main/Notebooks/06/Large-Language-Models.ipynb). 
+Das Highlight in der Liste ist das letzte [Notebook über Large Language Models (LLMs)](https://github.com/PBrdng/Elemente-der-Datenanalyse-und-der-Kuenstlichen-Intelligenz/blob/main/Notebooks/06%20Large%20Language%20Models/Large-Language-Models.ipynb). 
 
 Hier wird ein LLM von Grund auf implementiert und trainiert, so dass jeder Baustein eines LLMs nachvollzogen werden kann. 
 
