@@ -1,6 +1,8 @@
 # Elemente-der-Datenanalyse-und-der-Kuenstlichen-Intelligenz
 
-Material für "Elemente der Datenanalyse und der Künstlichen Intelligenz": Eine Vorlesung f¨ur Lehramts-Studierende im Fach Mathematik.
+Material für "Elemente der Datenanalyse und der Künstlichen Intelligenz": 
+
+Eine Vorlesung für Lehramts-Studierende im Fach Mathematik.
 
 Das Skript ist [unter diesem Link](https://pbrdng.github.io/Elemente-der-Datenanalyse-und-der-Kuenstlichen-Intelligenz/datenanalyse_und_KI.pdf) verfügbar.
 
