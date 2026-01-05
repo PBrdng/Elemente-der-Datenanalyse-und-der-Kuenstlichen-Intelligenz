@@ -1,9 +1,10 @@
 # Elemente-der-Datenanalyse-und-der-Kuenstlichen-Intelligenz
-Vorlesungsunterlagen für den Kurs "Elemente der Datenanalyse und der Künstlichen Intelligenz" 
+
+Material für "Elemente der Datenanalyse und der Künstlichen Intelligenz": Eine Vorlesung f¨ur Lehramts-Studierende im Fach Mathematik.
 
 Das Skript ist [unter diesem Link](https://pbrdng.github.io/Elemente-der-Datenanalyse-und-der-Kuenstlichen-Intelligenz/datenanalyse_und_KI.pdf) verfügbar.
 
-## Julia und Jupyter Notebooks
+## Jupyter Notebooks
 
 Dieses Repository enthält [6 Jupyter Notebooks](https://github.com/PBrdng/Elemente-der-Datenanalyse-und-der-Kuenstlichen-Intelligenz/tree/main/Notebooks) (geschrieben in Julia 1.12):<br>
 
@@ -14,7 +15,10 @@ Dieses Repository enthält [6 Jupyter Notebooks](https://github.com/PBrdng/Eleme
  * Einfache Sprachmodelle.
  * Large Language Models.
 
-Das Highlight in dieser Liste ist das letzte [Notebook über Large Language Models (LLMs)](https://github.com/PBrdng/Elemente-der-Datenanalyse-und-der-Kuenstlichen-Intelligenz/blob/main/Notebooks/06/Large-Language-Models.ipynb). 
+
+## Implementierung eines LLMs
+
+Das Highlight in der Liste ist das letzte [Notebook über Large Language Models (LLMs)](https://github.com/PBrdng/Elemente-der-Datenanalyse-und-der-Kuenstlichen-Intelligenz/blob/main/Notebooks/06/Large-Language-Models.ipynb). 
 
 Hier wird ein LLM von Grund auf implementiert und trainiert, so dass jeder Baustein eines LLMs nachvollzogen werden kann. 
 
@@ -22,8 +26,8 @@ Der Code in diesem Notebook basiert in weiten Teilen auf dem Blog Post [Generati
 
 Als Datensatz nehmen wir die [Transkripte aus 393 Spongebob Episoden (auf englisch)](https://www.kaggle.com/datasets/mikhailgaerlan/spongebob-squarepants-completed-transcripts).
 
-<br>
-<br>
+
+## Installation von Jupyter
 
 Um die Notebooks zu verwenden wie folgt vorgehen:
 
