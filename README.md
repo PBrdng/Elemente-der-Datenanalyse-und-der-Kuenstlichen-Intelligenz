@@ -14,14 +14,21 @@ Dieses Repository enthält [6 Jupyter Notebooks](https://github.com/PBrdng/Eleme
  * Einfache Sprachmodelle.
  * Large Language Models.
 
-Das Highlight in dieser Liste ist das letzte Notebook über Large Language Models (LLMs). Hier wird ein LLM von Grund auf implementiert und trainiert, so dass jeder Baustein eines LLMs nachvollzogen werden kann. Der Code in diesem Notebook basiert in weiten Teilen auf dem Blog Post [Generative transformer from first principles in Julia](https://liorsinai.github.io/machine-learning/2024/03/23/transformers-gpt.html) von [Lior Sinai](https://liorsinai.github.io) (danke an dieser Stelle für die Erlaubnis, den Code verwenden zu dürfen!). Als Datensatz nehmen wir die [Transkripte aus 393 Spongebob Episoden (auf englisch)](https://www.kaggle.com/datasets/mikhailgaerlan/spongebob-squarepants-completed-transcripts).
+Das Highlight in dieser Liste ist das letzte [Notebook über Large Language Models (LLMs)](https://github.com/PBrdng/Elemente-der-Datenanalyse-und-der-Kuenstlichen-Intelligenz/blob/main/Notebooks/06/Large-Language-Models.ipynb). 
 
-    
+Hier wird ein LLM von Grund auf implementiert und trainiert, so dass jeder Baustein eines LLMs nachvollzogen werden kann. 
+
+Der Code in diesem Notebook basiert in weiten Teilen auf dem Blog Post [Generative transformer from first principles in Julia](https://liorsinai.github.io/machine-learning/2024/03/23/transformers-gpt.html) von [Lior Sinai](https://liorsinai.github.io) (danke an dieser Stelle für die Erlaubnis, den Code verwenden zu dürfen!). 
+
+Als Datensatz nehmen wir die [Transkripte aus 393 Spongebob Episoden (auf englisch)](https://www.kaggle.com/datasets/mikhailgaerlan/spongebob-squarepants-completed-transcripts).
+
+<br>
+<br>
 
 Um die Notebooks zu verwenden wie folgt vorgehen:
 
 * Notebooks downloaden (per Klick auf den grünen
-`Code` Button entweder als Zip File oder mit einem Git Client wie [Github Desktop](https://desktop.github.com) oder [Sublime](https://www.sublimemerge.com)).
+`Code` Button entweder als Zip File oder mit einem Git Client wie [Github Desktop](https://desktop.github.com)).
 * Die neueste Version von Julia [downloaden](https://julialang.org/downloads/)
 * Julia starten.
 * In Julia per `]` in den Package manager wechseln.
