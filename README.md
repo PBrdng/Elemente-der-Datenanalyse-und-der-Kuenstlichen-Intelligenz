@@ -1,11 +1,11 @@
 # Elemente-der-Datenanalyse-und-der-Kuenstlichen-Intelligenz
 Vorlesungsunterlagen für den Kurs "Elemente der Datenanalyse und der Künstlichen Intelligenz" 
 
-Das Skript ist unter diesem Link verfügbar.
+Das Skript ist [unter diesem Link](https://pbrdng.github.io/Elemente-der-Datenanalyse-und-der-Kuenstlichen-Intelligenz/datenanalyse_und_KI.pdf) verfügbar.
 
 ## Julia und Jupyter Notebooks
 
-Dieses Repository enthält 6 Jupyter Notebooks (geschrieben in Julia 1.12):<br>
+Dieses Repository enthält [6 Jupyter Notebooks](https://github.com/PBrdng/Elemente-der-Datenanalyse-und-der-Kuenstlichen-Intelligenz/tree/main/Notebooks) (geschrieben in Julia 1.12):<br>
 
  * Julia Basics.
  * Matrizen und Bilder.
